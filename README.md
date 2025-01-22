@@ -1,2 +1,2 @@
-# ExerciciosDevMedia
- Exercicios do curso Front-end I  - DevMedia
+# ProjetosDevMedia
+ Projetos de final dos módulos Front-end I  - DevMedia
